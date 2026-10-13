@@ -1,0 +1,15 @@
+/workspaces/lab-1/lab01/bin/Debug/net10.0/lab01
+/workspaces/lab-1/lab01/bin/Debug/net10.0/lab01.deps.json
+/workspaces/lab-1/lab01/bin/Debug/net10.0/lab01.runtimeconfig.json
+/workspaces/lab-1/lab01/bin/Debug/net10.0/lab01.dll
+/workspaces/lab-1/lab01/bin/Debug/net10.0/lab01.pdb
+/workspaces/lab-1/lab01/obj/Debug/net10.0/lab01.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/lab-1/lab01/obj/Debug/net10.0/lab01.AssemblyInfoInputs.cache
+/workspaces/lab-1/lab01/obj/Debug/net10.0/lab01.AssemblyInfo.cs
+/workspaces/lab-1/lab01/obj/Debug/net10.0/lab01.csproj.CoreCompileInputs.cache
+/workspaces/lab-1/lab01/obj/Debug/net10.0/lab01.sourcelink.json
+/workspaces/lab-1/lab01/obj/Debug/net10.0/lab01.dll
+/workspaces/lab-1/lab01/obj/Debug/net10.0/refint/lab01.dll
+/workspaces/lab-1/lab01/obj/Debug/net10.0/lab01.pdb
+/workspaces/lab-1/lab01/obj/Debug/net10.0/lab01.genruntimeconfig.cache
+/workspaces/lab-1/lab01/obj/Debug/net10.0/ref/lab01.dll
